@@ -1,0 +1,12 @@
+{
+  "name": "machinler",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Kudefe/pokmach.git",
+  "author": "Eugenio Gutierrez",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "ml-regression": "^4.3.0"
+  }
+}
